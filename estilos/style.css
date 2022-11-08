@@ -60,3 +60,9 @@ section#redes > a img:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
     transition: transform 0.3s, border 0.3s;
 }
+
+p {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
